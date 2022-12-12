@@ -26,7 +26,11 @@ function Main() {
                                     Тест-драйв
                                 </a>
                             </div>
-                            <img class="offer__photo" src="#" alt="Фото" />
+                            <img
+                                class="offer__photo"
+                                src="img/ProdPhoto.jpg"
+                                alt="Фото"
+                            />
                         </div>
 
                         <a

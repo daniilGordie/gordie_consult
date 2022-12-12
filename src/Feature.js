@@ -1,6 +1,6 @@
 import './App.css'
 
-function Feature(params) {
+function Feature() {
     return (
         // <!-- feature (start) -->
         <section class="section feature" id="feature">
@@ -37,7 +37,7 @@ function Feature(params) {
                                             Разработка сайта с нуля
                                         </span>
                                         <span class="feature-sub__value">
-                                            от 15000 рублей
+                                            от 15000 грн
                                         </span>
                                     </li>
                                     <li class="feature-sub__item">
@@ -45,7 +45,7 @@ function Feature(params) {
                                             Разработка новых страниц
                                         </span>
                                         <span class="feature-sub__value">
-                                            от 5000 рублей
+                                            от 5000 грн
                                         </span>
                                     </li>
                                 </ul>
@@ -65,7 +65,7 @@ function Feature(params) {
                                             Сайт под ключ
                                         </span>
                                         <span class="feature-sub__value">
-                                            от 30000 рублей
+                                            от 30000 грн
                                         </span>
                                     </li>
                                     <li class="feature-sub__item">
@@ -73,7 +73,7 @@ function Feature(params) {
                                             Посадка готовой верстки на Wordpress
                                         </span>
                                         <span class="feature-sub__value">
-                                            от 50000 рублей
+                                            от 50000 грн
                                         </span>
                                     </li>
                                     <li class="feature-sub__item">
@@ -81,77 +81,7 @@ function Feature(params) {
                                             Доработка дизайна страниц
                                         </span>
                                         <span class="feature-sub__value">
-                                            от 4000 рублей
-                                        </span>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="feature__item">
-                                <button type="button" class="feature__link">
-                                    <div class="feature-item-wrap">
-                                        <span class="feature-item__title">
-                                            Приложения
-                                        </span>
-                                    </div>
-                                </button>
-                                <ul class="feature-sub hidden">
-                                    <li class="feature-sub__item">
-                                        <span class="feature-sub__name">
-                                            Разработка для iOS
-                                        </span>
-                                        <span class="feature-sub__value">
-                                            от 60000 рублей
-                                        </span>
-                                    </li>
-                                    <li class="feature-sub__item">
-                                        <span class="feature-sub__name">
-                                            Разработка для Android
-                                        </span>
-                                        <span class="feature-sub__value">
-                                            от 45000 рублей
-                                        </span>
-                                    </li>
-                                    <li class="feature-sub__item">
-                                        <span class="feature-sub__name">
-                                            Защита приложения
-                                        </span>
-                                        <span class="feature-sub__value">
-                                            от 70000 рублей
-                                        </span>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="feature__item">
-                                <button type="button" class="feature__link">
-                                    <div class="feature-item-wrap">
-                                        <span class="feature-item__title">
-                                            Интеграции сторонних сервисов
-                                        </span>
-                                    </div>
-                                </button>
-                                <ul class="feature-sub hidden">
-                                    <li class="feature-sub__item">
-                                        <span class="feature-sub__name">
-                                            Подключение метрики
-                                        </span>
-                                        <span class="feature-sub__value">
-                                            от 1000 рублей
-                                        </span>
-                                    </li>
-                                    <li class="feature-sub__item">
-                                        <span class="feature-sub__name">
-                                            Подключение textolite
-                                        </span>
-                                        <span class="feature-sub__value">
-                                            от 1000 рублей
-                                        </span>
-                                    </li>
-                                    <li class="feature-sub__item">
-                                        <span class="feature-sub__name">
-                                            Подключение чат-бота
-                                        </span>
-                                        <span class="feature-sub__value">
-                                            от 3000 рублей
+                                            от 4000 грн
                                         </span>
                                     </li>
                                 </ul>

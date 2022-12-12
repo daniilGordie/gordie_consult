@@ -10,7 +10,7 @@ function Header() {
                         <div class="header-main">
                             <a href="#main" class="logo header__logo">
                                 <img
-                                    src="./logo.svg"
+                                    src="img/logo.svg"
                                     alt="Logo: A 200"
                                     class="logo__img"
                                 />
@@ -48,7 +48,7 @@ function Header() {
                         </div>
                         {/* <!-- /.header-main --> */}
                         <a href="tel:88005437809" class="phone">
-                            8 800 543 78 09
+                            +(380) 66 50 37 294
                         </a>
                         <button
                             class="humburger-menu"
